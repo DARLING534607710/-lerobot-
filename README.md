@@ -40,4 +40,4 @@
 ### 安装与部署
 1. **克隆仓库**
    ```bash
-   git clone [https://github.com/你的用户名/你的仓库名](https://github.com/DARLING534607710/-lerobot-)
+   git clone [https://github.com/DARLING534607710/-lerobot-]
